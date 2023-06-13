@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pintrestdesign/static/css/main.622d8eaa.css",
+    "main.js": "/pintrestdesign/static/js/main.4a811918.js",
+    "index.html": "/pintrestdesign/index.html",
+    "main.622d8eaa.css.map": "/pintrestdesign/static/css/main.622d8eaa.css.map",
+    "main.4a811918.js.map": "/pintrestdesign/static/js/main.4a811918.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.622d8eaa.css",
+    "static/js/main.4a811918.js"
+  ]
+}
